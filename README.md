@@ -1,19 +1,7 @@
 # Data Parsing Backend
 
 ## Environment variables
-SECRET_KEY = <secret_key>
-
-DEBUG=True
-
-DB_NAME = <db_name>
-
-DB_USER = <db_user>
-
-DB_PASSWORD = <db_password>
-
-DB_HOST = <host_ip>
-
-DB_PORT = 5432
+create .env file using env variables from sample env file in cricket directory
 
 
 ##  Project setup instruction
