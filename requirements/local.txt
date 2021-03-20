@@ -10,7 +10,7 @@ drf-yasg==1.17.1
 idna==2.9
 inflection==0.3.1
 itypes==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 jtutils==0.0.6
 kiwisolver==1.1.0
 leven==1.0.4
